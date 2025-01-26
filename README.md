@@ -1,5 +1,7 @@
 # Contactless self opeing automatic trash can
 
+![automatic contactless trash can circuit](https://raw.githubusercontent.com/ishavya/automatic-trash-can/refs/heads/main/automatic%20contactless%20trash%20can%20circuit.png)
+
 ## How it works : 
 The ultrasonic sensor is used to measure the distance of a trigger object (e.g. hand). If it is close by, the servo motor opens the lid.
 Once the hand / object moves away, the lid will close after a few seconds. This time is programmable. The lid stays open (and extends the timeout) if the hand stays in front of the sensor or re-appears before the closing starts.
