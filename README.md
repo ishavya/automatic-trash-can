@@ -2,7 +2,9 @@
 
 ![automatic contactless trash can circuit](https://raw.githubusercontent.com/ishavya/automatic-trash-can/refs/heads/main/automatic%20contactless%20trash%20can%20circuit.png)
 
-[![automatic trash can youtube video](https://www.youtube.com/watch?v=HyCKmjL1uhQ)
+[![]()
+[![automatic trash can youtube video]()](https://www.youtube.com/watch?v=HyCKmjL1uhQ)
+
 
 ## How it works : 
 The ultrasonic sensor is used to measure the distance of a trigger object (e.g. hand). If it is close by, the servo motor opens the lid.
